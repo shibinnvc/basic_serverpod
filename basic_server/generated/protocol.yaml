@@ -1,0 +1,7 @@
+basicEndPoints:
+  - getArticles:
+  - addArticle:
+  - editArticle:
+  - deleteArticle:
+example:
+  - hello:

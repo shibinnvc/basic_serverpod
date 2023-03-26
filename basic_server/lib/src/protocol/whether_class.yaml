@@ -1,0 +1,3 @@
+class: WhetherInfo
+fields: 
+  temperature: double
